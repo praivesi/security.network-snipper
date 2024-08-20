@@ -1,5 +1,6 @@
 # security.network-snipper
-This is a demo version of network snipper for studying cyber security
+This is a demo version of network snipper for studying cyber security.
+
 
 ## 프로그램 기본 요구사항
 1. 패킷 캡처
